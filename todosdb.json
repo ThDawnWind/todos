@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "029916c2-91e4-4658-a4e3-4af02cf1389f",
+      "text": "Learn CSS",
+      "status": true
+    },
+    {
+      "id": "1c3b24bf-9edd-4bfa-b62d-add04da60263",
+      "text": "Learn JavaScript ",
+      "status": true
+    },
+    {
+      "id": "88d48c59-ef36-4348-9601-e5ea6741507a",
+      "text": "Learn React",
+      "status": true
+    },
+    {
+      "id": "71411b35-b3aa-47ba-93a1-89f40c7c0979",
+      "text": "Learn HTML",
+      "status": true
+    },
+    {
+      "id": "75644e60-9404-4428-87c3-c2204c23902e",
+      "text": "Learn TypeScript",
+      "status": false
+    }
+  ]
+}

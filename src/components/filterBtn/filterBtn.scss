@@ -1,0 +1,36 @@
+.btn-filter {
+    height: 100%;
+    padding: -1px 33px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    margin-left: 26px;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+
+.btn-filter:hover {
+    background-color: rgba(0, 0, 0, 0.987);
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+    scale: 0.8px;
+}
+
+.btns-filter {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.btn-filter {
+    justify-self: center;
+}
+
+.btn-filter:first-child {
+    justify-self: start;
+}
+
+.btn-filter:last-child {
+    justify-self: end;
+}
